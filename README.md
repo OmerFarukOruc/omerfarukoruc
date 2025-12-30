@@ -167,19 +167,26 @@ Constructed custom **Nix repository** to manage and automate operating system an
 
 <div align="center">
 
-![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerFarukOruc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmerFarukOruc&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmerFarukOruc&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukOruc&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmerFarukOruc&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=OmerFarukOruc&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/OmerFarukOruc)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-[![Ömer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OmerFarukOruc&theme=tokyo-night)](https://github.com/OmerFarukOruc)
+<div align="center">
+
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=OmerFarukOruc&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -208,10 +215,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/OmerFarukOruc/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=OmerFarukOruc&color=88C0D0&style=for-the-badge&label=Profile+Views)
 
 **Thanks for stopping by!** 😊
 
 ⭐ Feel free to star my repositories if you find them interesting!
 
 </div>
+
