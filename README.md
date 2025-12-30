@@ -1,88 +1,217 @@
-# 👋 Hi, I'm Ömer Faruk Oruç
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerfarukoruc)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmerFarukOruc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerfarukoruc35@gmail.com)
+
+# Hi there, I'm Omer Faruk Oruc 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Embedded+Software+Engineer;IoT+%26+Hardware+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omerfarukoruc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfarukoruc)
+[![GitHub](https://img.shields.io/badge/GitHub-OmerFarukOruc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmerFarukOruc)
+</div>
+
+---
 
 ## 🚀 About Me
 
-Embedded Software Engineer with 3+ years of experience specialising in IoT and embedded systems. I excel at firmware development, hardware integration, and creating efficient solutions for complex technical challenges.
+Embedded Software Engineer with **3+ years of experience** in IoT and embedded systems, specializing in **firmware and hardware development**. Proficient in C/C++, Python, and microcontrollers (ESP32, STM32), with a proven track record in troubleshooting, debugging, and problem-solving.
 
-- 🌱 Deepening expertise in NixOS, advanced C++, and modern IoT architectures
-- 💬 Ask me about embedded systems, firmware optimisation, and IoT solutions
-- 🌍 Languages: Turkish (Native), English (Fluent), French (Basic)
+- 🔭 Currently working remotely as an **Embedded Software Engineer**
+- 🌱 Learning **Advanced C++**, **IoT Architecture**, **Edge Computing**, and **ML in Embedded Systems**
+- 💬 Ask me about **Embedded Linux**, **IoT**, **Firmware Development**, **NixOS**
+- 🤝 Actively contribute to **open-source communities** and efficiently resolve technical challenges
+- 📫 Reach me: **omer@ninetech.com.tr**
 
-## 🛠️ Technical Stack
 
-### Languages & Frameworks
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+## 🛠 Technical Skills
 
-### Embedded Platforms
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=flat-square&logo=freertos&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Embedded Systems & Platforms
+![ARM](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Protocols & Communication
-`I2C` `SPI` `UART` `RS485` `CAN` `BLE` `MQTT`
+`I2C` • `SPI` • `UART` • `RS485` • `CAN` • `BLE` • `MQTT`
 
 ### Development Tools
-`STM32CubeIDE` `PlatformIO` `Visual Studio Code` `Qt Creator` `MATLAB`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🏆 Notable Projects
+**IDEs**: STM32CubeIDE, PlatformIO, Qt Creator, MATLAB, Mathematica
 
-### 🌡️ **IoT Immersive Cooling System**
-Comprehensive thermal management solution with remote monitoring, OTA updates, and cross-platform control interfaces
+### Frameworks & RTOS
+`Qt` • `FreeRTOS` • `Zephyr` • `ESP-IDF` • `Node.js` • `OpenCV` • `Home Assistant` • `ESPHome`
 
-### 🏠 **Smart Home Automation**
-Home Assistant-based system leveraging MQTT protocol for seamless device communication and automation
+### Testing & Debugging
+`Unit Testing` • `Integration Testing` • `GDB` • `HIL Testing` • `OpenOCD` • `JTAG Debugger` • `Power Profiler Kit` • `Google Test` • `CUTE Framework`
 
-### 🧭 **Indoor Navigation for Visually Impaired**
-Graduation thesis project developing assistive navigation technology (2020)
+### Build Systems & CI/CD
+`Make` • `CMake` • `GitLab CI` • `SVN`
 
-## 📊 GitHub Statistics
+### Software & Modeling
+`MATLAB` • `Mathematica` • `Multisim` • `LTSpice`
+
+---
+
+## 📌 Featured Projects
+
+<details open>
+<summary><b>🏠 Smart Home Automation System</b></summary>
+
+Designed and deployed an IoT-based home automation system using **Home Assistant** and **MQTT** protocol for seamless device communication.
+
+**Tech Stack**: `ESP32` `MQTT` `Home Assistant` `ESPHome` `Python`
+
+</details>
+
+<details>
+<summary><b>🦯 Indoor Navigation System for Visually Impaired</b></summary>
+
+**Graduation Thesis (2020)** - Developed assistive navigation technology for visually impaired individuals under Prof. Dr. Akay O.
+
+**Tech Stack**: `Embedded Systems` `Sensors` `IoT` `Navigation Algorithms`
+
+</details>
+
+<details>
+<summary><b>🌡 IoT Thermal Management System</b></summary>
+
+Led development of comprehensive IoT-driven Immersive Cooling System with remote monitoring, OTA updates, and real-time data visualization through mobile/web dashboards.
+
+**Tech Stack**: `C++` `Java` `JavaScript` `Firebase` `Android` `ESP32` `MQTT`
+
+</details>
+
+<details>
+<summary><b>☀ IoT-based Solar Power Monitoring</b></summary>
+
+Engineered real-time solar panel performance monitoring system with dashboard displaying power values, daily generation, voltage, and amperage.
+
+**Tech Stack**: `ESP8266` `MQTT` `Real-time Dashboard` `IoT`
+
+</details>
+
+<details>
+<summary><b>⛽ AYGAZ Filling Station Automation</b></summary>
+
+Automated AYGAZ fill stations through Bluetooth and smartphone integration, developing Android app for device communication.
+
+**Tech Stack**: `Android` `Java` `Bluetooth` `Automation Systems`
+
+</details>
+
+---
+
+## 🎯 Side Projects & Hobbies
+
+### 🚀 ROCm (Radeon Open Compute)
+Implemented **ROCm** for GPU-accelerated AI/ML tasks, optimizing performance for various machine learning models on **AMD GPUs**.
+
+### 🤖 Machine Learning Projects
+Developed projects encompassing:
+- Image classification models
+- Natural Language Processing
+- Tesseract OCR integration
+
+**Tech Stack**: `Python` `TensorFlow` `OpenCV` `Tesseract OCR`
+
+### 📦 Nix Repository for Personal PC
+Constructed custom **Nix repository** to manage and automate operating system and software installations on personal computers, embracing **declarative configuration** and **reproducible builds**.
+
+---
+
+## 🎓 Education
+
+**Dokuz Eylul University** | Izmir, Turkey
+- **B.S. in Electrical-Electronic Engineering** | *Sept 2015 - June 2020*
+- GPA: 2.82
+
+---
+
+## 🏆 Certifications & Awards
+
+🎓 **Machine Learning** - Stanford Online (Coursera) | *Dec 2016*
+- [View Certificate](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT_ID)
+
+🏅 **Google Code-In** Participant | *2011*
+
+---
+
+## 🌍 Languages
+
+🇹🇷*Turkish* - Native
+
+🇬🇧*English* - Fluent
+
+🇫🇷*French* - Basic
+
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerfarukoruc&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukoruc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerFarukOruc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukOruc&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmerFarukOruc&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🎯 Current Focus
+---
 
-- 🔧 Advanced C++ techniques for embedded systems
-- 🌐 IoT architecture and edge computing
-- 🤖 Machine learning applications in embedded devices
-- 🔓 Open source contributions
+## 📈 Contribution Graph
 
-## 📜 Certifications & Awards
+[![Ömer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OmerFarukOruc&theme=tokyo-night)](https://github.com/OmerFarukOruc)
 
-- **Machine Learning Course** - Stanford Online via Coursera (2016)
-- **Google Code-In Participant** (2011)
-- **Infomatrix Programming Contest** - "No To Obesity" Desktop Application (2012)
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerfarukoruc35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfarukoruc)
+
+</div>
 
 ---
 
 <div align="center">
-  
-*"Building efficient embedded solutions that bridge hardware and software"*
+
+### 💡 Currently Learning
+
+`Advanced C++ for Embedded Systems` • `IoT Architecture` • `Edge Computing` • `Machine Learning in Embedded Devices`
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/OmerFarukOruc/count.svg)
+
+**Thanks for stopping by!** 😊
+
+⭐ Feel free to star my repositories if you find them interesting!
 
 </div>
