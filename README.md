@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Embedded Software Engineer with **3+ years of experience** in IoT and embedded systems, specializing in **firmware and hardware development**. Proficient in C/C++, Python, and microcontrollers (ESP32, STM32), with a proven track record in troubleshooting, debugging, and problem-solving.
+Embedded Software Engineer with **4+ years of experience** in IoT and embedded systems, specializing in **firmware and hardware development**. Proficient in C/C++, Python, and microcontrollers (ESP32, STM32), with a proven track record in troubleshooting, debugging, and problem-solving.
 
 - 🔭 Currently working remotely as an **Embedded Software Engineer**
 - 🌱 Learning **Advanced C++**, **IoT Architecture**, **Edge Computing**, and **ML in Embedded Systems**
