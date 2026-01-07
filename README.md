@@ -97,24 +97,6 @@ Led development of comprehensive IoT-driven Immersive Cooling System with remote
 
 </details>
 
-<details>
-<summary><b>☀ IoT-based Solar Power Monitoring</b></summary>
-
-Engineered real-time solar panel performance monitoring system with dashboard displaying power values, daily generation, voltage, and amperage.
-
-**Tech Stack**: `ESP8266` `MQTT` `Real-time Dashboard` `IoT`
-
-</details>
-
-<details>
-<summary><b>⛽ AYGAZ Filling Station Automation</b></summary>
-
-Automated AYGAZ fill stations through Bluetooth and smartphone integration, developing Android app for device communication.
-
-**Tech Stack**: `Android` `Java` `Bluetooth` `Automation Systems`
-
-</details>
-
 ---
 
 ## 🎯 Side Projects & Hobbies
