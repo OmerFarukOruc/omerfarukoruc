@@ -56,7 +56,6 @@ If I can't test it automatically, I don't trust it.
 <br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-007ACC?style=flat)
@@ -77,7 +76,6 @@ If I can't test it automatically, I don't trust it.
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ---
 
@@ -105,7 +103,7 @@ If I can't test it automatically, I don't trust it.
  NOW  Safety-critical agricultural firmware + AI infrastructure tooling
 ```
 
-🌐 Turkish (native) · English (C1, IELTS 7.0) · French (basic)
+🌐 Turkish (native) · English (C1, Academic IELTS 7.0) · French (basic)
 
 ---
 
