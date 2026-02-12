@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ömer Faruk Oruç
+# Omer Faruk Oruc
 
 ```
 $ whoami
