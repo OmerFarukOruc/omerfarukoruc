@@ -8,7 +8,9 @@
 </picture>
 </p>
 
-I'm Omer Faruk Oruc, an embedded engineer in İzmir <img src="assets/flag-tr.svg" alt="Türkiye" height="14">. Code that compiles proves nothing to me until I watch it run on a board. That habit comes from firmware. Now coding agents write most of my code under rules I wrote, and the question I ask most is "did you check".
+I'm Omer Faruk Oruc, an embedded software engineer in İzmir, Türkiye <img src="assets/flag-tr.svg" alt="Turkish flag" height="14">.
+
+Code that compiles proves nothing to me until I watch it run on a board. That habit comes from firmware. Now coding agents write most of my code under rules I wrote.
 
 - [linctl](https://github.com/KyaniteHQ/linctl) is a Linear CLI you can give to an agent. The agent reads widely and writes to one team, and linctl checks every write against the live credential. There is no bypass flag.
 - [nixos-config](https://github.com/OmerFarukOruc/nixos-config) is my desktop, two laptops and a server in one flake. Its `agents/` folder holds the rules, skills and hooks my agents work under. I wrote it for my own machines, so read it and copy the parts you need.
