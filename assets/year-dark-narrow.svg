@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 436" width="360" height="436" role="img" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title>A year of work drawn as four logic analyzer channels</title>
+<style>@keyframes sweep{0%{transform:translateX(0)}10%,100%{transform:translateX(332px)}}@keyframes head{0%,9%{opacity:1}10%,100%{opacity:0}}.sweep{animation:sweep 30s linear infinite}.head{animation:head 30s linear infinite;opacity:0}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="358" height="434" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<text x="16.0" y="28.0" font-size="14" font-weight="400" text-anchor="start" fill="#b7c0ca">52 weeks · sqrt, per-lane peak</text>
+<text x="344.0" y="28.0" font-size="14" font-weight="400" text-anchor="end" fill="#b7c0ca">total</text>
+<line x1="16" y1="122.5" x2="344" y2="122.5" stroke="#42474e"/>
+<path d="M16.0 122.0H47.5V119.7H53.8V117.2H60.2V114.4H66.5V117.4H72.8V118.4H79.1V122.0H85.4V118.8H91.7V118.0H98.0V118.8H104.3V122.0H110.6V118.8H116.9V91.8H123.2V80.0H129.5V105.9H135.8V107.5H142.2V112.4H148.5V119.7H154.8V114.4H161.1V119.7H167.4V118.8H173.7V112.9H180.0V103.1H186.3V101.2H192.6V111.6H198.9V105.2H205.2V110.7H211.5V117.7H217.8V118.8H224.2V110.8H230.5V119.7H236.8V116.6H243.1V119.7H249.4V117.4H255.7V118.4H262.0V122.0H274.6V116.9H280.9V118.8H287.2V119.2H293.5V117.7H299.8V122.0H306.2V98.2H312.5V105.0H318.8V98.3H325.1V95.1H331.4V94.7H337.7V101.2H344.0V122.0H16.0Z" fill="#4e3235"/>
+<path d="M16.0 122.0H47.5V119.7H53.8V117.2H60.2V114.4H66.5V117.4H72.8V118.4H79.1V122.0H85.4V118.8H91.7V118.0H98.0V118.8H104.3V122.0H110.6V118.8H116.9V91.8H123.2V80.0H129.5V105.9H135.8V107.5H142.2V112.4H148.5V119.7H154.8V114.4H161.1V119.7H167.4V118.8H173.7V112.9H180.0V103.1H186.3V101.2H192.6V111.6H198.9V105.2H205.2V110.7H211.5V117.7H217.8V118.8H224.2V110.8H230.5V119.7H236.8V116.6H243.1V119.7H249.4V117.4H255.7V118.4H262.0V122.0H274.6V116.9H280.9V118.8H287.2V119.2H293.5V117.7H299.8V122.0H306.2V98.2H312.5V105.0H318.8V98.3H325.1V95.1H331.4V94.7H337.7V101.2H344.0" fill="none" stroke="#ff7b72" stroke-width="2" stroke-linejoin="round"/>
+<line x1="16" y1="210.5" x2="344" y2="210.5" stroke="#42474e"/>
+<path d="M16.0 210.0H60.2V205.9H66.5V210.0H79.1V205.9H98.0V210.0H104.3V205.9H110.6V205.0H116.9V197.8H123.2V183.9H129.5V200.5H135.8V203.6H142.2V205.9H148.5V210.0H154.8V207.1H161.1V210.0H173.7V207.1H180.0V205.0H192.6V203.6H198.9V210.0H205.2V203.6H211.5V207.1H224.2V205.9H230.5V207.1H236.8V210.0H243.1V207.1H255.7V204.3H262.0V210.0H268.3V205.9H274.6V200.5H280.9V204.3H287.2V205.9H293.5V203.6H299.8V205.0H306.2V168.0H312.5V180.1H318.8V200.9H325.1V180.8H331.4V172.2H337.7V178.0H344.0V210.0H16.0Z" fill="#4e3c2f"/>
+<path d="M16.0 210.0H60.2V205.9H66.5V210.0H79.1V205.9H98.0V210.0H104.3V205.9H110.6V205.0H116.9V197.8H123.2V183.9H129.5V200.5H135.8V203.6H142.2V205.9H148.5V210.0H154.8V207.1H161.1V210.0H173.7V207.1H180.0V205.0H192.6V203.6H198.9V210.0H205.2V203.6H211.5V207.1H224.2V205.9H230.5V207.1H236.8V210.0H243.1V207.1H255.7V204.3H262.0V210.0H268.3V205.9H274.6V200.5H280.9V204.3H287.2V205.9H293.5V203.6H299.8V205.0H306.2V168.0H312.5V180.1H318.8V200.9H325.1V180.8H331.4V172.2H337.7V178.0H344.0" fill="none" stroke="#ffa657" stroke-width="2" stroke-linejoin="round"/>
+<line x1="16" y1="298.5" x2="344" y2="298.5" stroke="#42474e"/>
+<path d="M16.0 298.0H22.3V293.9H28.6V298.0H47.5V293.9H79.1V298.0H85.4V290.9H91.7V292.2H104.3V290.9H110.6V298.0H116.9V292.2H123.2V256.6H129.5V287.1H135.8V293.9H142.2V286.4H148.5V298.0H205.2V290.9H211.5V298.0H224.2V290.9H230.5V298.0H249.4V292.2H262.0V298.0H274.6V293.9H287.2V292.2H299.8V287.1H306.2V293.9H312.5V290.9H318.8V274.0H325.1V260.0H331.4V256.0H337.7V270.1H344.0V298.0H16.0Z" fill="#433d57"/>
+<path d="M16.0 298.0H22.3V293.9H28.6V298.0H47.5V293.9H79.1V298.0H85.4V290.9H91.7V292.2H104.3V290.9H110.6V298.0H116.9V292.2H123.2V256.6H129.5V287.1H135.8V293.9H142.2V286.4H148.5V298.0H205.2V290.9H211.5V298.0H224.2V290.9H230.5V298.0H249.4V292.2H262.0V298.0H274.6V293.9H287.2V292.2H299.8V287.1H306.2V293.9H312.5V290.9H318.8V274.0H325.1V260.0H331.4V256.0H337.7V270.1H344.0" fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linejoin="round"/>
+<line x1="16" y1="386.5" x2="344" y2="386.5" stroke="#42474e"/>
+<path d="M16.0 386.0H22.3V384.8H28.6V386.0H34.9V384.3H41.2V374.6H47.5V371.8H53.8V367.5H60.2V378.6H66.5V372.3H72.8V369.2H79.1V375.9H85.4V381.0H91.7V383.1H98.0V377.7H104.3V375.8H110.6V371.4H116.9V382.2H123.2V381.8H129.5V383.6H135.8V386.0H142.2V383.3H148.5V386.0H161.1V380.9H167.4V376.1H173.7V379.3H180.0V384.3H186.3V383.9H192.6V356.5H198.9V375.0H205.2V373.7H211.5V379.6H217.8V381.3H224.2V375.1H230.5V374.4H236.8V369.1H243.1V360.6H249.4V365.1H255.7V365.3H262.0V376.0H268.3V363.3H274.6V364.4H280.9V360.9H287.2V353.7H293.5V348.4H299.8V344.4H306.2V344.0H312.5V355.8H318.8V353.8H325.1V361.7H331.4V355.1H337.7V367.9H344.0V386.0H16.0Z" fill="#25474f"/>
+<path d="M16.0 386.0H22.3V384.8H28.6V386.0H34.9V384.3H41.2V374.6H47.5V371.8H53.8V367.5H60.2V378.6H66.5V372.3H72.8V369.2H79.1V375.9H85.4V381.0H91.7V383.1H98.0V377.7H104.3V375.8H110.6V371.4H116.9V382.2H123.2V381.8H129.5V383.6H135.8V386.0H142.2V383.3H148.5V386.0H161.1V380.9H167.4V376.1H173.7V379.3H180.0V384.3H186.3V383.9H192.6V356.5H198.9V375.0H205.2V373.7H211.5V379.6H217.8V381.3H224.2V375.1H230.5V374.4H236.8V369.1H243.1V360.6H249.4V365.1H255.7V365.3H262.0V376.0H268.3V363.3H274.6V364.4H280.9V360.9H287.2V353.7H293.5V348.4H299.8V344.4H306.2V344.0H312.5V355.8H318.8V353.8H325.1V361.7H331.4V355.1H337.7V367.9H344.0" fill="none" stroke="#56d4dd" stroke-width="2" stroke-linejoin="round"/>
+<clipPath id="plot"><rect x="14.0" y="42.0" width="332.0" height="358.0"/></clipPath><g clip-path="url(#plot)"><g class="sweep" transform="translate(332 0)"><rect x="14.0" y="42.0" width="332.0" height="358.0" fill="#161b22"/><line class="head" x1="14.0" y1="42.0" x2="14.0" y2="400.0" stroke="#79c0ff" stroke-width="2"/></g></g>
+<text x="16.0" y="66.0" font-size="15" font-weight="600" text-anchor="start" fill="#ff7b72">D0</text>
+<text x="50.0" y="66.0" font-size="14" font-weight="400" text-anchor="start" fill="#f0f6fc">commits</text>
+<text x="344.0" y="66.0" font-size="16" font-weight="600" text-anchor="end" fill="#f0f6fc">3,247</text>
+<text x="16.0" y="154.0" font-size="15" font-weight="600" text-anchor="start" fill="#ffa657">D1</text>
+<text x="50.0" y="154.0" font-size="14" font-weight="400" text-anchor="start" fill="#f0f6fc">PRs opened</text>
+<text x="344.0" y="154.0" font-size="16" font-weight="600" text-anchor="end" fill="#f0f6fc">925</text>
+<text x="16.0" y="242.0" font-size="15" font-weight="600" text-anchor="start" fill="#d2a8ff">D2</text>
+<text x="50.0" y="242.0" font-size="14" font-weight="400" text-anchor="start" fill="#f0f6fc">issues</text>
+<text x="344.0" y="242.0" font-size="16" font-weight="600" text-anchor="end" fill="#f0f6fc">431</text>
+<text x="16.0" y="330.0" font-size="15" font-weight="600" text-anchor="start" fill="#56d4dd">D3</text>
+<text x="50.0" y="330.0" font-size="14" font-weight="400" text-anchor="start" fill="#f0f6fc">private repos</text>
+<text x="344.0" y="330.0" font-size="16" font-weight="600" text-anchor="end" fill="#f0f6fc">11,511</text>
+<line x1="22.3" y1="402" x2="22.3" y2="408" stroke="#b7c0ca"/>
+<text x="27.3" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Dec</text>
+<line x1="79.1" y1="402" x2="79.1" y2="408" stroke="#b7c0ca"/>
+<text x="84.1" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Feb</text>
+<line x1="135.8" y1="402" x2="135.8" y2="408" stroke="#b7c0ca"/>
+<text x="140.8" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Apr</text>
+<line x1="186.3" y1="402" x2="186.3" y2="408" stroke="#b7c0ca"/>
+<text x="191.3" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Jun</text>
+<line x1="243.1" y1="402" x2="243.1" y2="408" stroke="#b7c0ca"/>
+<text x="248.1" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Aug</text>
+<line x1="299.8" y1="402" x2="299.8" y2="408" stroke="#b7c0ca"/>
+<text x="304.8" y="418.0" font-size="12.5" font-weight="400" text-anchor="start" fill="#b7c0ca">Oct</text>
+</svg>

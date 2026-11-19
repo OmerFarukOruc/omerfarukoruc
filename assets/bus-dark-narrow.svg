@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 584" width="360" height="584" role="img" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title>Timeline drawn as a decoded bus</title>
+<style>@keyframes cell-0{0%,1.43%{opacity:0}2.03%,100%{opacity:1}}.cell-0{animation:cell-0 30s linear infinite}@keyframes cell-1{0%,2.86%{opacity:0}3.46%,100%{opacity:1}}.cell-1{animation:cell-1 30s linear infinite}@keyframes cell-2{0%,4.29%{opacity:0}4.89%,100%{opacity:1}}.cell-2{animation:cell-2 30s linear infinite}@keyframes cell-3{0%,5.71%{opacity:0}6.31%,100%{opacity:1}}.cell-3{animation:cell-3 30s linear infinite}@keyframes cell-4{0%,7.14%{opacity:0}7.74%,100%{opacity:1}}.cell-4{animation:cell-4 30s linear infinite}@keyframes cell-5{0%,8.57%{opacity:0}9.17%,100%{opacity:1}}.cell-5{animation:cell-5 30s linear infinite}@keyframes cell-6{0%,10.00%{opacity:0}10.60%,100%{opacity:1}}.cell-6{animation:cell-6 30s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="358" height="582" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.5"/>
+<g class="cell-0" transform="translate(0 0)">
+<polygon points="16.0,68.0 25.0,46 171.0,46 180.0,68.0 171.0,90 25.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="25.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2011</text>
+<text x="98.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">Code-In</text>
+<text x="98.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">started coding</text>
+<text x="98.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">at 14</text>
+</g>
+<g class="cell-1" transform="translate(0 0)">
+<polygon points="180.0,68.0 189.0,46 335.0,46 344.0,68.0 335.0,90 189.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="189.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2015</text>
+<text x="262.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">Dokuz Eylül</text>
+<text x="262.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">electrical and</text>
+<text x="262.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">electronics</text>
+</g>
+<g class="cell-2" transform="translate(0 142)">
+<polygon points="16.0,68.0 25.0,46 171.0,46 180.0,68.0 171.0,90 25.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="25.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2021</text>
+<text x="98.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">RION</text>
+<text x="98.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">electrical</text>
+<text x="98.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">engineer</text>
+</g>
+<g class="cell-3" transform="translate(0 142)">
+<polygon points="180.0,68.0 189.0,46 335.0,46 344.0,68.0 335.0,90 189.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="189.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2022</text>
+<text x="262.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">Kyra Tech</text>
+<text x="262.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">embedded</text>
+<text x="262.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">software</text>
+</g>
+<g class="cell-4" transform="translate(0 284)">
+<polygon points="16.0,68.0 25.0,46 171.0,46 180.0,68.0 171.0,90 25.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="25.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2023</text>
+<text x="98.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">ScenTronix</text>
+<text x="98.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">embedded</text>
+<text x="98.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">software</text>
+</g>
+<g class="cell-5" transform="translate(0 284)">
+<polygon points="180.0,68.0 189.0,46 335.0,46 344.0,68.0 335.0,90 189.0,90" fill="none" stroke="#f0f6fc" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="189.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#b7c0ca">2025</text>
+<text x="262.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">NineTech</text>
+<text x="262.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">founded a</text>
+<text x="262.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">consultancy</text>
+</g>
+<g class="cell-6" transform="translate(0 426)">
+<polygon points="98.0,68.0 107.0,46 253.0,46 262.0,68.0 253.0,90 107.0,90" fill="#263545" stroke="#79c0ff" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="107.0" y="31.0" font-size="14" font-weight="600" text-anchor="start" fill="#79c0ff">now</text>
+<text x="180.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#f0f6fc">firmware</text>
+<text x="180.0" y="112.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">safety-critical</text>
+<text x="180.0" y="129.0" font-size="12.5" font-weight="400" text-anchor="middle" fill="#b7c0ca">and AI tooling</text>
+</g>
+</svg>

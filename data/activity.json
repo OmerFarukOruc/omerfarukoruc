@@ -1,0 +1,373 @@
+{
+ "numbers": {
+  "pull_requests": 862,
+  "flake_commits": 1065,
+  "skills": 22
+ },
+ "weeks": [
+  {
+   "week": "2025-11-24",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 0
+  },
+  {
+   "week": "2025-12-01",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 1,
+   "private": 1
+  },
+  {
+   "week": "2025-12-08",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 0
+  },
+  {
+   "week": "2025-12-15",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 2
+  },
+  {
+   "week": "2025-12-22",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 90
+  },
+  {
+   "week": "2025-12-29",
+   "commits": 2,
+   "pull_requests": 0,
+   "issues": 1,
+   "private": 140
+  },
+  {
+   "week": "2026-01-05",
+   "commits": 9,
+   "pull_requests": 0,
+   "issues": 1,
+   "private": 236
+  },
+  {
+   "week": "2026-01-12",
+   "commits": 22,
+   "pull_requests": 2,
+   "issues": 1,
+   "private": 38
+  },
+  {
+   "week": "2026-01-19",
+   "commits": 8,
+   "pull_requests": 0,
+   "issues": 1,
+   "private": 130
+  },
+  {
+   "week": "2026-01-26",
+   "commits": 5,
+   "pull_requests": 0,
+   "issues": 1,
+   "private": 195
+  },
+  {
+   "week": "2026-02-02",
+   "commits": 0,
+   "pull_requests": 2,
+   "issues": 0,
+   "private": 70
+  },
+  {
+   "week": "2026-02-09",
+   "commits": 4,
+   "pull_requests": 2,
+   "issues": 3,
+   "private": 17
+  },
+  {
+   "week": "2026-02-16",
+   "commits": 6,
+   "pull_requests": 2,
+   "issues": 2,
+   "private": 6
+  },
+  {
+   "week": "2026-02-23",
+   "commits": 4,
+   "pull_requests": 0,
+   "issues": 2,
+   "private": 48
+  },
+  {
+   "week": "2026-03-02",
+   "commits": 0,
+   "pull_requests": 2,
+   "issues": 3,
+   "private": 72
+  },
+  {
+   "week": "2026-03-09",
+   "commits": 4,
+   "pull_requests": 3,
+   "issues": 0,
+   "private": 147
+  },
+  {
+   "week": "2026-03-16",
+   "commits": 350,
+   "pull_requests": 18,
+   "issues": 2,
+   "private": 10
+  },
+  {
+   "week": "2026-03-23",
+   "commits": 675,
+   "pull_requests": 83,
+   "issues": 101,
+   "private": 12
+  },
+  {
+   "week": "2026-03-30",
+   "commits": 99,
+   "pull_requests": 11,
+   "issues": 7,
+   "private": 4
+  },
+  {
+   "week": "2026-04-06",
+   "commits": 81,
+   "pull_requests": 5,
+   "issues": 1,
+   "private": 0
+  },
+  {
+   "week": "2026-04-13",
+   "commits": 35,
+   "pull_requests": 2,
+   "issues": 8,
+   "private": 5
+  },
+  {
+   "week": "2026-04-20",
+   "commits": 2,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 0
+  },
+  {
+   "week": "2026-04-27",
+   "commits": 22,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 0
+  },
+  {
+   "week": "2026-05-04",
+   "commits": 2,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 18
+  },
+  {
+   "week": "2026-05-11",
+   "commits": 4,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 68
+  },
+  {
+   "week": "2026-05-18",
+   "commits": 32,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 31
+  },
+  {
+   "week": "2026-05-25",
+   "commits": 137,
+   "pull_requests": 3,
+   "issues": 0,
+   "private": 2
+  },
+  {
+   "week": "2026-06-01",
+   "commits": 165,
+   "pull_requests": 3,
+   "issues": 0,
+   "private": 3
+  },
+  {
+   "week": "2026-06-08",
+   "commits": 41,
+   "pull_requests": 5,
+   "issues": 0,
+   "private": 601
+  },
+  {
+   "week": "2026-06-15",
+   "commits": 108,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 83
+  },
+  {
+   "week": "2026-06-22",
+   "commits": 49,
+   "pull_requests": 5,
+   "issues": 3,
+   "private": 104
+  },
+  {
+   "week": "2026-06-29",
+   "commits": 7,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 28
+  },
+  {
+   "week": "2026-07-06",
+   "commits": 4,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 15
+  },
+  {
+   "week": "2026-07-13",
+   "commits": 48,
+   "pull_requests": 2,
+   "issues": 3,
+   "private": 82
+  },
+  {
+   "week": "2026-07-20",
+   "commits": 2,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 93
+  },
+  {
+   "week": "2026-07-27",
+   "commits": 11,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 197
+  },
+  {
+   "week": "2026-08-03",
+   "commits": 2,
+   "pull_requests": 1,
+   "issues": 0,
+   "private": 445
+  },
+  {
+   "week": "2026-08-10",
+   "commits": 8,
+   "pull_requests": 1,
+   "issues": 2,
+   "private": 301
+  },
+  {
+   "week": "2026-08-17",
+   "commits": 5,
+   "pull_requests": 4,
+   "issues": 2,
+   "private": 295
+  },
+  {
+   "week": "2026-08-24",
+   "commits": 0,
+   "pull_requests": 0,
+   "issues": 0,
+   "private": 69
+  },
+  {
+   "week": "2026-08-31",
+   "commits": 0,
+   "pull_requests": 2,
+   "issues": 0,
+   "private": 355
+  },
+  {
+   "week": "2026-09-07",
+   "commits": 10,
+   "pull_requests": 11,
+   "issues": 1,
+   "private": 321
+  },
+  {
+   "week": "2026-09-14",
+   "commits": 4,
+   "pull_requests": 4,
+   "issues": 1,
+   "private": 435
+  },
+  {
+   "week": "2026-09-21",
+   "commits": 3,
+   "pull_requests": 2,
+   "issues": 2,
+   "private": 722
+  },
+  {
+   "week": "2026-09-28",
+   "commits": 7,
+   "pull_requests": 5,
+   "issues": 2,
+   "private": 975
+  },
+  {
+   "week": "2026-10-05",
+   "commits": 0,
+   "pull_requests": 3,
+   "issues": 7,
+   "private": 1192
+  },
+  {
+   "week": "2026-10-12",
+   "commits": 217,
+   "pull_requests": 215,
+   "issues": 1,
+   "private": 1217
+  },
+  {
+   "week": "2026-10-19",
+   "commits": 111,
+   "pull_requests": 109,
+   "issues": 3,
+   "private": 628
+  },
+  {
+   "week": "2026-10-26",
+   "commits": 215,
+   "pull_requests": 10,
+   "issues": 34,
+   "private": 715
+  },
+  {
+   "week": "2026-11-02",
+   "commits": 276,
+   "pull_requests": 104,
+   "issues": 85,
+   "private": 408
+  },
+  {
+   "week": "2026-11-09",
+   "commits": 286,
+   "pull_requests": 174,
+   "issues": 104,
+   "private": 658
+  },
+  {
+   "week": "2026-11-16",
+   "commits": 165,
+   "pull_requests": 125,
+   "issues": 46,
+   "private": 227
+  }
+ ]
+}
