@@ -1,0 +1,65 @@
+{
+ "numbers": {
+  "agent_clis": 4,
+  "upstream_prs": 11,
+  "machines": 4
+ },
+ "timeline": [
+  {
+   "year": "2011",
+   "name": "Code-In",
+   "caption": [
+    "started coding",
+    "at 14"
+   ]
+  },
+  {
+   "year": "2015",
+   "name": "Dokuz Eylül",
+   "caption": [
+    "electrical and",
+    "electronics"
+   ]
+  },
+  {
+   "year": "2021",
+   "name": "RION",
+   "caption": [
+    "electrical",
+    "engineer"
+   ]
+  },
+  {
+   "year": "2022",
+   "name": "Kyra Tech",
+   "caption": [
+    "embedded",
+    "software"
+   ]
+  },
+  {
+   "year": "2023",
+   "name": "ScenTronix",
+   "caption": [
+    "embedded",
+    "software"
+   ]
+  },
+  {
+   "year": "2025",
+   "name": "NineTech",
+   "caption": [
+    "founded a",
+    "consultancy"
+   ]
+  },
+  {
+   "year": "now",
+   "name": "firmware",
+   "caption": [
+    "safety-critical",
+    "and AI tooling"
+   ]
+  }
+ ]
+}
