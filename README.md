@@ -94,7 +94,7 @@ Code that compiles proves nothing to me until I watch it run on a board. That ha
   <source media="(prefers-color-scheme: light) and (min-width: 1280px)" srcset="assets/readouts-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/readouts-dark-narrow.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/readouts-light-narrow.svg">
-  <img src="assets/readouts-light.svg" alt="Seven-segment readouts: 944 pull requests (merged, 52 weeks), 1,113 flake commits (4 machines), 21 agent skills (in my flake), 11 upstream PRs (merged), 4 agent CLIs (one rule set).">
+  <img src="assets/readouts-light.svg" alt="Seven-segment readouts: 971 pull requests (merged, 52 weeks), 1,128 flake commits (4 machines), 21 agent skills (in my flake), 11 upstream PRs (merged), 4 agent CLIs (one rule set).">
 </picture>
 </p>
 
@@ -104,7 +104,7 @@ Code that compiles proves nothing to me until I watch it run on a board. That ha
   <source media="(prefers-color-scheme: light) and (min-width: 1280px)" srcset="assets/year-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/year-dark-narrow.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/year-light-narrow.svg">
-  <img src="assets/year-light.svg" alt="Four logic analyzer channels over 52 weeks, with totals: commits 3,365, PRs opened 1,010, issues 441, private repos 11,771.">
+  <img src="assets/year-light.svg" alt="Four logic analyzer channels over 52 weeks, with totals: commits 3,405, PRs opened 1,036, issues 470, private repos 11,840.">
 </picture>
 </p>
 
