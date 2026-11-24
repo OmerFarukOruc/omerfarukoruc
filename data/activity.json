@@ -1,8 +1,8 @@
 {
  "numbers": {
-  "pull_requests": 971,
-  "flake_commits": 1136,
-  "skills": 21
+  "pull_requests": 984,
+  "flake_commits": 1197,
+  "skills": 18
  },
  "weeks": [
   {
@@ -364,10 +364,10 @@
   },
   {
    "week": "2026-11-23",
-   "commits": 0,
-   "pull_requests": 0,
-   "issues": 0,
-   "private": 0
+   "commits": 51,
+   "pull_requests": 14,
+   "issues": 3,
+   "private": 92
   }
  ]
 }
